@@ -83,7 +83,7 @@ A mobile app company is losing 96% of users between install and Day 7 activation
 ## Excel Dashboard — 7 Sheets
 
 ### Dashboard — Interactive Overview
-![Dashboard](dashboard_screenshot.png)
+dashboard_screenshot.png
 
 **Features:**
 - 5 dynamic KPI cards — update live when slicers are applied
