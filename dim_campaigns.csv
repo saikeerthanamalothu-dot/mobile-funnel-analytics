@@ -1,0 +1,7 @@
+Campaign_ID,Campaign_Name,Channel,Cost_USD,Target_Audience
+C001,Google Ads — Search,Paid Search,45000,25-34 Professional
+C002,Meta Ads — Social,Paid Social,38000,18-24 Student
+C003,Influencer Partnership,Influencer,25000,18-30 Lifestyle
+C004,App Store Optimisation,Organic,0,All
+C005,Email Referral,Referral,5000,Existing Users
+C006,TikTok Ads,Paid Social,32000,16-24 Gen Z
